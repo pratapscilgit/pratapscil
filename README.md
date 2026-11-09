@@ -1,12 +1,11 @@
-# Hello, I'm an Azure Cloud Engineer 👋
+# Hello, I'm an Azure Cloud Engineer
 
 ## About Me
 
-Senior Azure Cloud Engineer with 17+ years of IT infrastructure experience, specializing in Microsoft Azure, Windows Server, Virtualization, and Cloud Operations.
+Senior Azure Cloud Engineer with 18+ years of IT infrastructure experience, specializing in Microsoft Azure, Windows Server, Virtualization, and Cloud Operations.
 
 I have hands-on experience supporting enterprise Azure environments and managing cloud infrastructure, availability, security, and operations.
 
-Currently expanding my expertise in DevOps, Infrastructure as Code, Terraform, Git, GitHub, and CI/CD automation.
 
 ## Technical Skills
 
@@ -33,15 +32,6 @@ Currently expanding my expertise in DevOps, Infrastructure as Code, Terraform, G
 - YAML Pipelines
 - CI/CD Automation
 - GitHub Actions
-
-## Current Learning & Hands-on Projects
-
-- Terraform modules for Azure infrastructure.
-- Automated Azure resource provisioning.
-- Git and GitHub source control workflows.
-- Azure DevOps CI/CD pipelines.
-- Infrastructure deployment across DEV, TEST, UAT, and PROD.
-- Cloud monitoring and operational automation.
 
 ## Certifications
 
